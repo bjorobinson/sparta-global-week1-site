@@ -1,3 +1,7 @@
 .carousel-caption{
-  color: black;  
+  color: black;
+}
+
+.mynavbar > ul > li:hover{
+  background:pink;
 }
