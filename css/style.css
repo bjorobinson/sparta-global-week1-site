@@ -3,5 +3,14 @@
 }
 
 .mynavbar > ul > li:hover{
-  background:pink;
+  background:white;
+  color:#777;
+}
+
+.carousel-caption{
+  padding:0px;
+}
+
+.row{
+  margin-bottom: 20px;
 }
