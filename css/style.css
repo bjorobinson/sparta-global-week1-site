@@ -1,14 +1,5 @@
-.carousel-caption{
-  color: black;
-}
-
-.mynavbar > ul > li:hover{
-  background:white;
-  color:#777;
-}
-
-.carousel-caption{
-  padding:0px;
+#navbar > ul > li:hover{
+  background: white;
 }
 
 .row{
