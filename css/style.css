@@ -1,0 +1,17 @@
+#navbar > ul > li:hover{
+  background: white;
+}
+
+.row{
+  margin-bottom: 20px;
+}
+
+.panel-default{
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
+
+/* source: https://stackoverflow.com/questions/10591422/bootstrap-carousel-image-doesnt-align-properly */
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
